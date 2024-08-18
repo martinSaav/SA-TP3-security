@@ -20,7 +20,7 @@
 ### k) Se deberá usar la versión de Java 17, SpringBoot 3.0.2 o 3.0.3 y Spring Framework 6.0.5.
 
 ## 2. Diagrama de arquitectura de la solución
-![diagrama-arquitectura](./docs/diagram/microservicios.png)
+![diagrama-arquitectura](./docs/diagram/diagrama_secuencia.png)
 
 ## Descripción de flujo:
 
